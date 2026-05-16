@@ -1,0 +1,6 @@
+{
+  "name": "PhishingGuard (피싱가드)",
+  "description": "문자 피싱 및 QR코드(큐싱) 보안 위협을 탐지하고 분석하는 모바일에 최적화된 보안 솔루션입니다.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
